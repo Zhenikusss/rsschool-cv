@@ -1,7 +1,6 @@
 # CV
 
 ## YAUHENI KOZAK
-*Student at RSS*
 
 ### CONTACT INFO:
 > Phone: [+375 (29) 938 50 33](tel:+375299385033)  
