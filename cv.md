@@ -19,7 +19,8 @@
 > HTML;  
 > CSS;  
 > Base: JavaScript, Java, PHP, MySQL;  
-> Photoshop, Figma.
+> Photoshop, Figma;
+> Joomla, WordPress.
 
 ---
 
